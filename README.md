@@ -217,5 +217,4 @@ Refresh `http://<VM_IP_ADDRESS>:3001` to confirm `Restore Drill Test Monitor` is
 ```bash
 sudo reboot
 ```
-After the VM restarts, refresh `http://<VM_IP_ADDRESS>:3001` to verify Uptime Kuma starts back up automatically.# sysadmin-docker
-Lab 2 documentation
+After the VM restarts, refresh `http://<VM_IP_ADDRESS>:3001` to verify Uptime Kuma starts back up automatically.
